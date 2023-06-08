@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>3daa72da-728.png</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1650</width>
+<height>2200</height>
+<depth>1</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>egg masses</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>829</xmin>
+<ymin>1214</ymin>
+<xmax>974</xmax>
+<ymax>1432</ymax>
+</bndbox>
+</object>
+<object>
+<name>egg masses</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>565</xmin>
+<ymin>586</ymin>
+<xmax>691</xmax>
+<ymax>807</ymax>
+</bndbox>
+</object>
+<object>
+<name>egg masses</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>733</xmin>
+<ymin>420</ymin>
+<xmax>979</xmax>
+<ymax>732</ymax>
+</bndbox>
+</object>
+</annotation>

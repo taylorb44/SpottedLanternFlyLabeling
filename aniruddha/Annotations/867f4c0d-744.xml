@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>867f4c0d-744.png</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>1</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>1650</width>
+<height>2200</height>
+<depth>1</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>egg masses</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>238</xmin>
+<ymin>1878</ymin>
+<xmax>319</xmax>
+<ymax>2086</ymax>
+</bndbox>
+</object>
+<object>
+<name>egg masses</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>754</xmin>
+<ymin>1423</ymin>
+<xmax>1001</xmax>
+<ymax>1505</ymax>
+</bndbox>
+</object>
+<object>
+<name>egg masses</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>377</xmin>
+<ymin>620</ymin>
+<xmax>537</xmax>
+<ymax>796</ymax>
+</bndbox>
+</object>
+<object>
+<name>egg masses</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>527</xmin>
+<ymin>778</ymin>
+<xmax>640</xmax>
+<ymax>967</ymax>
+</bndbox>
+</object>
+<object>
+<name>egg masses</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1195</xmin>
+<ymin>1474</ymin>
+<xmax>1371</xmax>
+<ymax>1566</ymax>
+</bndbox>
+</object>
+<object>
+<name>egg masses</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1049</xmin>
+<ymin>1603</ymin>
+<xmax>1161</xmax>
+<ymax>1754</ymax>
+</bndbox>
+</object>
+<object>
+<name>egg masses</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>1192</xmin>
+<ymin>1604</ymin>
+<xmax>1383</xmax>
+<ymax>1658</ymax>
+</bndbox>
+</object>
+</annotation>
