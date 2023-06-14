@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+<folder>images</folder>
+<filename>85c7d05e-696.png</filename>
+<source>
+<database>MyDatabase</database>
+<annotation>COCO2017</annotation>
+<image>flickr</image>
+<flickrid>NULL</flickrid>
+<annotator>2</annotator>
+</source>
+<owner>
+<flickrid>NULL</flickrid>
+<name>Label Studio</name>
+</owner>
+<size>
+<width>768</width>
+<height>512</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object>
+<name>instar nymph (1-3)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>334</xmin>
+<ymin>161</ymin>
+<xmax>356</xmax>
+<ymax>218</ymax>
+</bndbox>
+</object>
+<object>
+<name>instar nymph (1-3)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>373</xmin>
+<ymin>185</ymin>
+<xmax>423</xmax>
+<ymax>241</ymax>
+</bndbox>
+</object>
+<object>
+<name>instar nymph (1-3)</name>
+<pose>Unspecified</pose>
+<truncated>0</truncated>
+<difficult>0</difficult>
+<bndbox>
+<xmin>355</xmin>
+<ymin>184</ymin>
+<xmax>378</xmax>
+<ymax>232</ymax>
+</bndbox>
+</object>
+</annotation>
